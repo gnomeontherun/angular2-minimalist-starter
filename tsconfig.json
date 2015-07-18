@@ -23,6 +23,7 @@
         "client/components/home/home.ts",
         "client/components/todo/todo.ts",
         "client/directives/Autofocus.ts",
+        "client/directives/XLarge.ts",
         "client/directives/directives.ts",
         "client/services/TodoService.ts",
         "client/services/services.ts"
